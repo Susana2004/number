@@ -4,5 +4,11 @@ public class numbers{
         if(num > 0){
             System.out.println("NUMBER IS POSITIVE");
         }
+        else if(num > 0){
+            System.out.println("NUMBER IS NEGATIVE");
+        }
+        else {
+            System.out.println("NUMBER IS ZERO");
+        }
     }
 }
